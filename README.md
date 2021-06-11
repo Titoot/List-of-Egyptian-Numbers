@@ -31,5 +31,26 @@ Examples:
 01034955575
 ```
 
+## instructions:
 
-## you can use it for brute-forcing
+### method 1:
+
+1. clone the repo 
+
+```
+git clone https://github.com/Titoot/Complete-list-of-phone-numbers-Vodafone-WE-Orange-Etisalat-.git
+```
+2. and then extact the 7z file & delete the extra
+
+3. enjoy!
+
+### method 2:
+
+1. go to [releases](https://github.com/Titoot/Complete-list-of-phone-numbers-Vodafone-WE-Orange-Etisalat-/releases) and download the 7z file
+
+2. extact it
+ 
+3. enjoy!
+
+
+### you can use it for brute-forcing
